@@ -10,5 +10,6 @@ public class gitd {
         System.out.println("222222");
         System.out.println("push测试");
         System.out.println("push测试");
+        System.out.println("pull测试");
     }
 }
