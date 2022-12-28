@@ -11,5 +11,6 @@ public class gitd {
         System.out.println("push测试");
         System.out.println("push测试");
         System.out.println("pull测试");
+        System.out.println("sshtest");
     }
 }
